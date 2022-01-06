@@ -1,7 +1,5 @@
-//map filter and reduce
-
 //////////////////////////////MAP
-
+//always create a new array
 //map to transform element of array into something new
 
 
